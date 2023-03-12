@@ -1,0 +1,26 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+msec                                                                              0x0300       4
+temp                                                                              0x0304       4
+i                                                                                 0x0308       1
+Frec                                                                              0x0309      32
+j                                                                                 0x0329       1
+Notas                                                                             0x032A     100
+Tiempo                                                                            0x038E     100
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+timer2_compa_isr                                                                  0x0006D     25
+Tono                                                                              0x00086     58
+noTono                                                                            0x000C0      6
+main                                                                              0x000C6     89
